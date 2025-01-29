@@ -22,7 +22,7 @@ It autoconfigures [Weld](https://weld.cdi-spec.org),
 [Apache OpenWebBeans](https://openwebbeans.apache.org/) and
 [Rewrite](https://www.ocpsoft.org/rewrite/) too.
 
-## Run Example Application locally
+# Run Example Application locally
 
 1- Clone this project
 ```Shell
